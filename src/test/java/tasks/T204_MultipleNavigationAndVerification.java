@@ -6,9 +6,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class task204 {
+public class T204_MultipleNavigationAndVerification {
 
-        //    Task 4: Multiple Navigation and Verification
+        //    Task 4: MultipleNavigationAndVerification
         //    Setup:
         static WebDriver driver;
 

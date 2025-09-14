@@ -9,8 +9,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
-public class task203 {
-    //    Task 3: Browser Size and Position
+public class T203_BrowserSizeAndPosition {
+    //    Task 3: Browser Size And Position
     //    Setup:
     static WebDriver driver;
     //    Open Chrome in @BeforeEach.

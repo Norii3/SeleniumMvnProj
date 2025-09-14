@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class task202 {
+public class T202_PageSourceValidation {
     //Task 2: Page Source Validation
     //Setup:
     static WebDriver driver;

@@ -3,7 +3,7 @@ package tasks;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
-public class task04 {
+public class T04 {
 
     public static void main(String[] args) throws InterruptedException {
 

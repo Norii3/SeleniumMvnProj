@@ -10,7 +10,7 @@ import java.time.Duration;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class task302 {
+public class T301_CheckboxInteraction {
 
     @Test
     void CheckboxInteraction() throws InterruptedException {

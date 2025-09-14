@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
-public class  task303{
+public class T303_RadioButtonSelection {
 
     @Test
     void radioButtonTest() throws InterruptedException {

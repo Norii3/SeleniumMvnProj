@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class task304{
+public class T304_FakerDataFormFilling {
     @Test
     void fakerDataFormFillingTest(){
 //    Go to "https://demoqa.com/text-box". Use Java Faker to:
